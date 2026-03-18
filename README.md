@@ -17,7 +17,7 @@ Este espaço documenta a evolução acadêmica na disciplina de AED I, cobrindo 
 * **Destaque:** O repositório inclui o **Projeto Final** da disciplina, que aplica todos os conceitos aprendidos.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** C (C11/C17)
+* **Linguagem:** C
 * **Compilador:** GCC
 * **Ambiente:** Windows / CodeBlocks
 
