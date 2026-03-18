@@ -3,7 +3,7 @@
 > **Course:** Computer Engineering 
 
 [![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Status](https://img.shields.io/badge/Status-In%20Progress-green.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Concluded-green.svg)](#)
 [![Education](https://img.shields.io/badge/Institution-UFMT-red.svg)](https://www.ufmt.br/)
 
 Este repositório contém a jornada de aprendizado em **Algoritmos e Estruturas de Dados I**. O foco é o domínio da linguagem C, manipulação de memória e eficiência algorítmica — pilares fundamentais para um Engenheiro de Computação.
