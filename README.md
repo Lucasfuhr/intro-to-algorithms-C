@@ -19,7 +19,7 @@ Este espaço documenta a evolução acadêmica na disciplina de AED I, cobrindo 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** C
 * **Compilador:** GCC
-* **Ambiente:** Windows / CodeBlocks
+* **Ambiente:** Windows / CodeBlocks / VSCode
 
 ## 📂 Estrutura do Repositório
 * `01-Basicos/`: Sintaxe, loops, condicionais e funções.
